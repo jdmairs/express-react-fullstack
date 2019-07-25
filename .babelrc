@@ -1,0 +1,10 @@
+{
+    "presets": [
+        ["@babl/preset-env",{
+            "targets":{
+                "node":"current"
+            }
+        }],
+        "@babel/preset-react"
+    ]
+}
